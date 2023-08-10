@@ -1,12 +1,12 @@
 ### Seja bem vindo ao meu perfil!
 
-- 👾 Atualmente trabalho como desenvolvedora junior em uma startup
+- 👾 Desenvolvedora junior 
 - 🌱 Estou estudando java
 - 💬 Disponível para perguntas
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiaTrixie&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=e4605e&bg_color=dcdcdc" alt="Beatriz Moura github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaTrixie&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaTrixie&layout=compact&hide_border=true&title_color=ff0000&text_color=e4605e&bg_color=dcdcdc" />
 </div>
 
 
