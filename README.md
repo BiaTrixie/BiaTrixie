@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Beatriz+Moura;Eu+tenho+18+anos;Moro+no+Brasil;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
 
