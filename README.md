@@ -25,7 +25,7 @@
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-createreactapp-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-react.native-0D1117?style=for-the-badge&logo=createreactapp&labelColor=0D1117)&nbsp;
 
 
 
