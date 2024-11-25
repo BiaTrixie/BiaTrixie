@@ -1,38 +1,59 @@
+![](https://komarev.com/ghpvc/?username=BiaTrixie&color=FF0000)
+
+## Sobre mim
+
+- Apaixonada por inovação e tecnologia.
+- Estudante de Análise e Desenvolvimento de Sistemas.
+- Trabalhando como desenvolvedora fullstack.
+- Aprendendo mais sobre desenvolvimento mobile.
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Python](https://img.shields.io/badge/-Python-fff?style=flat&logo=python&logoColor=FF0000)
+![Java](https://img.shields.io/badge/-Java-fff?style=flat&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript&logoColor=FF0000)
+![HTML5](https://img.shields.io/badge/-HTML5-fff?style=flat&logo=HTML5&logoColor=FF0000)
+![CSS](https://img.shields.io/badge/-CSS-fff?style=flat&logo=CSS3&logoColor=FF0000)
+![Flutter](https://img.shields.io/badge/-Flutter-fff?style=flat&logo=Flutter&logoColor=FF0000)
+![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=FF0000)
+![React Native](https://img.shields.io/badge/-React%20Native-fff?style=flat&logo=react&logoColor=FF0000)
+![Postgres](https://img.shields.io/badge/-Postgres-fff?style=flat&logo=postgresql&logoColor=FF0000)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql&logoColor=FF0000)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-fff?style=flat&logo=insomnia&logoColor=FF0000)
+![Postman](https://img.shields.io/badge/-Postman-fff?style=flat&logo=postman&logoColor=FF0000)
+![Mockoon](https://img.shields.io/badge/-Mockoon-fff?style=flat&logo=mockoon&logoColor=FF0000)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git&logoColor=FF0000)
+![GitHub](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=github&logoColor=FF0000)
+![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=docker&logoColor=FF0000)
+![Nginx](https://img.shields.io/badge/-Nginx-fff?style=flat&logo=Nginx&logoColor=FF0000)
+![Azure](https://img.shields.io/badge/-AzureDevOps-fff?style=flat&logo=azuredevops&logoColor=FF0000)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Beatriz+Moura;Eu+tenho+18+anos;Moro+no+Brasil;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
+**Ferramentas de desenvolvimento**
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiaTrixie&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=e4605e&bg_color=dcdcdc" alt="Beatriz Moura github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaTrixie&layout=compact&hide_border=true&title_color=ff0000&text_color=e4605e&bg_color=dcdcdc" />
-</div>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/-Intellij-fff?style=flat&logo=intellij-idea-ide&logoColor=FF0000)
+![Trello](https://img.shields.io/badge/-Trello-fff?style=flat&logo=trello&logoColor=FF0000)
+![Figma](https://img.shields.io/badge/-Figma-fff?style=flat&logo=figma&logoColor=FF0000)
+![Slack](https://img.shields.io/badge/-Slack-fff?style=flat&logo=slack&logoColor=FF0000)
 
+<br/>
 
-<div align="center"> 
-<a href="https://instagram.com/beatriz.xmr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:bmoura276@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/beatriz-moura-3639bb230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://github.com/BiaTrixie" title="Perfil da Beatriz" align="left">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=BiaTrixie&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=e4605e&bg_color=fff" />
+</a>
+
+## Onde me encontrar
+
+<div align="left"> 
+<a href = "mailto:codebiadeveloper@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/beatriz-mouradev" target="_blank">  <img src="https://img.shields.io/badge/-LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF5D00&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00ff00&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=JAVA&logoColor=ff0000&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-react.native-0D1117?style=for-the-badge&logo=createreactapp&labelColor=0D1117)&nbsp;
-
-
-
-
-
-
-
-
-
-
