@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - Apaixonada por inovação e tecnologia.
-- Estudante de Análise e Desenvolvimento de Sistemas.
+- Formada Análise e Desenvolvimento de Sistemas.
 - Trabalhando como desenvolvedora fullstack.
 - Aprendendo mais sobre desenvolvimento mobile.
 
