@@ -4,8 +4,9 @@
 
 - Apaixonada por inovação e tecnologia.
 - Formada Análise e Desenvolvimento de Sistemas.
+- Estudante de Inteligência Articificial pela UFG.
 - Trabalhando como desenvolvedora fullstack.
-- Aprendendo mais sobre desenvolvimento mobile.
+- Aprendendo mais sobre visão computacional.
 
 ## Minhas Skills
 
