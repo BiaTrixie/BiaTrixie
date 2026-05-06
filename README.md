@@ -38,19 +38,6 @@
 ![Azure](https://img.shields.io/badge/-AzureDevOps-fff?style=flat&logo=azuredevops&logoColor=FF0000)
 
 
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/-Intellij-fff?style=flat&logo=intellij-idea-ide&logoColor=FF0000)
-![Trello](https://img.shields.io/badge/-Trello-fff?style=flat&logo=trello&logoColor=FF0000)
-![Figma](https://img.shields.io/badge/-Figma-fff?style=flat&logo=figma&logoColor=FF0000)
-![Slack](https://img.shields.io/badge/-Slack-fff?style=flat&logo=slack&logoColor=FF0000)
-
-<br/>
-
-<a href="https://github.com/BiaTrixie" title="Perfil da Beatriz" align="left">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=BiaTrixie&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=e4605e&bg_color=fff" />
-</a>
 
 ## Onde me encontrar
 
