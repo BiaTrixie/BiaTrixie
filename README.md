@@ -29,10 +29,16 @@
 ### Atividades recentes
 
 <div align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=BiaTrixie&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
+</div>
+
+<br />
+
+<div align="center">
   <table>
     <tr>
       <td width="50%" align="center" valign="top">
-        <img width="100%" height="195" src="https://github-readme-stats.vercel.app/api?username=BiaTrixie&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&card_width=420" alt="GitHub stats" />
+        <img width="100%" height="195" src="https://github-readme-stats.vercel.app/api?username=BiaTrixie&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&card_width=420&rank_icon=github" alt="GitHub stats" />
       </td>
       <td width="50%" align="center" valign="top">
         <img width="100%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaTrixie&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&card_width=420&langs_count=6" alt="Top languages" />
