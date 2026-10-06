@@ -26,7 +26,7 @@
 
 <br />
 
-### Linguagens mais usadas
+### Atividades recentes
 
 <div align="center">
   <table>
