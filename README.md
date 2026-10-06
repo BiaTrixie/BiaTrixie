@@ -56,5 +56,4 @@
   <a href="https://www.codebia.com.br/"><img src="https://img.shields.io/badge/Portfolio-codebia.com.br-0d1117?style=for-the-badge&logo=googlechrome&logoColor=A855F7" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/beatriz-mouradev"><img src="https://img.shields.io/badge/LinkedIn-beatriz--mouradev-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
   <a href="mailto:codebiadeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-codebiadeveloper-0d1117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Gmail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=BiaTrixie&color=A855F7&style=for-the-badge" alt="Profile views" />
 </div>
