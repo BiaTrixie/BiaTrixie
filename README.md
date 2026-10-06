@@ -11,7 +11,7 @@
 ## Sobre mim
 
 - Apaixonada por inovação e tecnologia.
-- Formada Análise e Desenvolvimento de Sistemas.
+- Formada em Análise e Desenvolvimento de Sistemas.
 - Estudante de Inteligência Artificial pela UFG.
 - Trabalhando como desenvolvedora fullstack.
 - Aprendendo mais sobre visão computacional.
